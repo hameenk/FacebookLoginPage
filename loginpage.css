@@ -1,0 +1,113 @@
+.facebook-body{
+    background: #f0f2f5;
+    color: black;
+    overflow-y: scroll;
+    font-family: Helvetica,arial, sans-serif ;
+    margin: 0%;
+
+}
+
+.meain-div{
+   
+}
+.fist-div{
+    float: left;
+    padding-left: 150px;
+    width: 40%;
+    
+
+}
+.secand-div{
+    float: left;
+    width: 50%;
+
+}
+.faceblue{
+    width: 55%;
+    
+    margin-top: 177px;
+    margin-left: 98px;
+    
+}
+.pppp{
+   margin-left: 21%; 
+   
+   color: #323131;
+   margin-top: -1%;
+
+}
+.whiteborder{
+    background-color: #fff;
+    border-radius:8px ;
+    margin-top: 17%;
+    width: 350px;
+    height: 290px;
+    margin-left: 100px;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-right:3% ;
+    padding-bottom: 3%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+
+}
+.aaa{
+    width: 340px;
+    height: 44px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border-color: rgba(172, 167, 167, 0.081);
+    color:#36393e ;
+    padding-left: 10px;
+    font-size: 17PX ;
+}
+.login{
+    background-color: #1877f2;
+    width: 355px;
+    height:41px;
+    margin-top:10px ;
+    border-radius:6px;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.forgotlink{
+    padding-top: 100px;
+    margin-left: 100px;
+    text-decoration: none;
+}
+.line{
+    display: flex;
+    border-bottom:1px solid #dedde1;
+    align-items: center;
+    margin-top: 19px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.createnewaccount{
+    background-color:#42b72a ;
+    width: 220px;
+    height: 51px;
+    border-radius: 6px;
+    color: #fff;
+    border: none;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 63px;
+    cursor: pointer;
+}
+.createnewaccount:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tobisnesslink{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.qqq{
+    margin-top: 35px;
+    margin-left: 13px;
+    font-size: 15px;
+}
